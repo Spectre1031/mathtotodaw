@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beeb50216bafb3849b41c131003bdf76, type: 3}
+  m_Name: Toto
+  m_EditorClassIdentifier: Assembly-CSharp::Character
+  name: Toto
+  sprite: {fileID: -7474631849290815496, guid: eaf49d913f9611c4eba6d6a8b2f00abd, type: 3}

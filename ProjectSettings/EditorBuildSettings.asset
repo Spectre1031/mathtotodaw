@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/02-Introduction/Narration.unity
+    guid: 2b9ff1912804b444597c7d89ea087915
+  - enabled: 0
+    path: Assets/Scenes/Testing/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/07-Outro/Outro.unity
+    guid: cac708b5b747acd4eb8960b81571ec61
+  - enabled: 0
+    path: Assets/Scenes/01-MainMen/TitleScreen.unity
+    guid: c5ccbdb077cd02c46959578b302cffd5
+  - enabled: 0
+    path: Assets/Scenes/04-GameLevel1/LevelOne.unity
+    guid: bd3f06588e4188341869426c9c7584e9
+  - enabled: 0
+    path: Assets/Scenes/05-GameLevel2/LevelTwo.unity
+    guid: 9219c076446878749b594db9834c682f
+  - enabled: 0
+    path: Assets/Scenes/06-GameLevel3/LevelThree.unity
+    guid: 4c016df4824099844bbf2508f77ac258
+  - enabled: 1
+    path: Assets/Scenes/Objectives/L1_Objective.unity
+    guid: 2571d0703a1740342845b793e304697c
+  - enabled: 1
+    path: Assets/Scenes/Objectives/L2_Objective.unity
+    guid: f12eab79db05cbb4db19c8f753507064
+  - enabled: 1
+    path: Assets/Scenes/Objectives/L3_Objective.unity
+    guid: 35adc00a43d9450468e543831b4d008e
+  - enabled: 1
+    path: Assets/Scenes/01-MainMen/MainMenu.unity
+    guid: e1e3d54c489e2b04093ace9d804dd9e9
+  - enabled: 1
+    path: Assets/Scenes/01-MainMen/LevelSelection.unity
+    guid: 554447322fd4253489d9e8a107613b78
+  - enabled: 1
+    path: Assets/Scenes/04-Levels/LevelOne.unity
+    guid: a26b94bdc43bf1046aff3ac7d89bde9f
+  - enabled: 1
+    path: Assets/Scenes/04-Levels/LevelTwo.unity
+    guid: 5e903db1fe498ea428fd4041c9ed4aa5
+  - enabled: 1
+    path: Assets/Scenes/04-Levels/LevelThree.unity
+    guid: e4211ed83597e6f4e9ce427f1018a94b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

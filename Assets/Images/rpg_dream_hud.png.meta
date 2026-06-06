@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 615e667a6a648174a9316378e099112e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1733719932188236084
+    second: rpg_dream_hud_0
+  - first:
+      213: 8040038740031981857
+    second: rpg_dream_hud_1
+  - first:
+      213: 9200628898655361072
+    second: rpg_dream_hud_2
+  - first:
+      213: 1998012863270241358
+    second: rpg_dream_hud_3
+  - first:
+      213: 1134876214756744863
+    second: rpg_dream_hud_4
+  - first:
+      213: 321505619121856604
+    second: rpg_dream_hud_5
+  - first:
+      213: -4331346714203572145
+    second: rpg_dream_hud_6
+  - first:
+      213: 7151521913516101209
+    second: rpg_dream_hud_7
+  - first:
+      213: -254544352247376743
+    second: rpg_dream_hud_8
+  - first:
+      213: 1694938870985885974
+    second: rpg_dream_hud_9
+  - first:
+      213: -3640786641624772833
+    second: rpg_dream_hud_10
+  - first:
+      213: 562165368874368124
+    second: rpg_dream_hud_11
+  - first:
+      213: 8559542676189217087
+    second: rpg_dream_hud_12
+  - first:
+      213: 4993254965289490559
+    second: rpg_dream_hud_13
+  - first:
+      213: 6195660260629647799
+    second: rpg_dream_hud_14
+  - first:
+      213: -4278142318897729455
+    second: rpg_dream_hud_15
+  - first:
+      213: 5629093534650782294
+    second: rpg_dream_hud_16
+  - first:
+      213: 7070708550681196083
+    second: rpg_dream_hud_17
+  - first:
+      213: 7973541590417819889
+    second: rpg_dream_hud_18
+  - first:
+      213: -6178908783820231447
+    second: rpg_dream_hud_19
+  - first:
+      213: -5331070583089576764
+    second: rpg_dream_hud_20
+  - first:
+      213: -5251574634726332410
+    second: rpg_dream_hud_21
+  - first:
+      213: -2177201179336240432
+    second: rpg_dream_hud_22
+  - first:
+      213: -6009792780816597428
+    second: rpg_dream_hud_23
+  - first:
+      213: -4360905901778674578
+    second: rpg_dream_hud_24
+  - first:
+      213: 8337394954557662674
+    second: rpg_dream_hud_25
+  - first:
+      213: -6356453375966213576
+    second: rpg_dream_hud_26
+  - first:
+      213: 4039970442413905108
+    second: rpg_dream_hud_27
+  - first:
+      213: -3750223224659640312
+    second: rpg_dream_hud_28
+  - first:
+      213: -8259571509794177880
+    second: rpg_dream_hud_29
+  - first:
+      213: 1806889688599450542
+    second: rpg_dream_hud_30
+  - first:
+      213: -3429257689373284154
+    second: rpg_dream_hud_31
+  - first:
+      213: -3090281822034681686
+    second: rpg_dream_hud_32
+  - first:
+      213: 4518390621900100491
+    second: rpg_dream_hud_33
+  - first:
+      213: 1370337235675875152
+    second: rpg_dream_hud_34
+  - first:
+      213: -3111763239305232506
+    second: rpg_dream_hud_35
+  - first:
+      213: 1724794069665626297
+    second: rpg_dream_hud_36
+  - first:
+      213: -8760255240104146987
+    second: rpg_dream_hud_37
+  - first:
+      213: 3188772981050711926
+    second: rpg_dream_hud_38
+  - first:
+      213: -4026600197485125329
+    second: rpg_dream_hud_39
+  - first:
+      213: 6848341787040666236
+    second: rpg_dream_hud_40
+  - first:
+      213: -7182674172789104686
+    second: rpg_dream_hud_41
+  - first:
+      213: 431080108709886853
+    second: rpg_dream_hud_42
+  - first:
+      213: -1321637358904254447
+    second: rpg_dream_hud_43
+  - first:
+      213: 1935076756569911433
+    second: rpg_dream_hud_44
+  - first:
+      213: 3204231304287241021
+    second: rpg_dream_hud_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_dream_hud_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439181ab7196f0810800000000000000
+      internalID: 1733719932188236084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1294cf7d2a4f39f60800000000000000
+      internalID: 8040038740031981857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038db8e7c333faf70800000000000000
+      internalID: 9200628898655361072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 116
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4442ebfc1e5abb10800000000000000
+      internalID: 1998012863270241358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e9d9c87e3efbf00800000000000000
+      internalID: 1134876214756744863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 116
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50ec0d38a7367400800000000000000
+      internalID: 321505619121856604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 116
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4837d4ac17f3e3c0800000000000000
+      internalID: -4331346714203572145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 116
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e8c8a3a4f4f3360800000000000000
+      internalID: 7151521913516101209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 116
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99496b0a24da77cf0800000000000000
+      internalID: -254544352247376743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 116
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6198d194ce1a58710800000000000000
+      internalID: 1694938870985885974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 116
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fc7f2d6d3597dc0800000000000000
+      internalID: -3640786641624772833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c78ccac663dc700800000000000000
+      internalID: 562165368874368124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 100
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f310e0ea6ba99c670800000000000000
+      internalID: 8559542676189217087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 100
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78190f7fea9b4540800000000000000
+      internalID: 4993254965289490559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b195d75e286bf550800000000000000
+      internalID: 6195660260629647799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150f88f3a3cf0a4c0800000000000000
+      internalID: -4278142318897729455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652de4cdebe8e1e40800000000000000
+      internalID: 5629093534650782294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367ba1f6f3302260800000000000000
+      internalID: 7070708550681196083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 100
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f848a2b4d5b7ae60800000000000000
+      internalID: 7973541590417819889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 100
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecaad8c23b104aa0800000000000000
+      internalID: -6178908783820231447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 100
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c44966cc8b3406b0800000000000000
+      internalID: -5331070583089576764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6086fa991b8ae17b0800000000000000
+      internalID: -5251574634726332410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d21a1d001709c1e0800000000000000
+      internalID: -2177201179336240432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 74
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e38bd9e4de89ca0800000000000000
+      internalID: -6009792780816597428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd399ff23fa73c0800000000000000
+      internalID: -4360905901778674578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52b8aa98064b370800000000000000
+      internalID: 8337394954557662674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a833e155759c7a0800000000000000
+      internalID: -6356453375966213576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4982376bbd01830800000000000000
+      internalID: 4039970442413905108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8000eb1c8d784fbc0800000000000000
+      internalID: -3750223224659640312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf7c1197b106d80800000000000000
+      internalID: -8259571509794177880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea35945399c531910800000000000000
+      internalID: 1806889688599450542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e0adec44d860d0800000000000000
+      internalID: -3429257689373284154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0a6cd4e0d1d15d0800000000000000
+      internalID: -3090281822034681686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83dfc6c45c84be30800000000000000
+      internalID: 4518390621900100491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05783fa947a640310800000000000000
+      internalID: 1370337235675875152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb71812dbc0d4d0800000000000000
+      internalID: -3111763239305232506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8be196113bfe710800000000000000
+      internalID: 1724794069665626297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d786dfd5425d6680800000000000000
+      internalID: -8760255240104146987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f14e4a12cc04c20800000000000000
+      internalID: 3188772981050711926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21a1684474ae18c0800000000000000
+      internalID: -4026600197485125329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72d50d32923a0f50800000000000000
+      internalID: 6848341787040666236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df588135e3025c90800000000000000
+      internalID: -7182674172789104686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bb36d23118bf500800000000000000
+      internalID: 431080108709886853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_43
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11060ac03d998ade0800000000000000
+      internalID: -1321637358904254447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_44
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980f670ce06cada10800000000000000
+      internalID: 1935076756569911433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_dream_hud_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d334a3ef467b77c20800000000000000
+      internalID: 3204231304287241021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0963d67b6cd889447bcf2033b0db5cd6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rpg_dream_hud_0: 1733719932188236084
+      rpg_dream_hud_1: 8040038740031981857
+      rpg_dream_hud_10: -3640786641624772833
+      rpg_dream_hud_11: 562165368874368124
+      rpg_dream_hud_12: 8559542676189217087
+      rpg_dream_hud_13: 4993254965289490559
+      rpg_dream_hud_14: 6195660260629647799
+      rpg_dream_hud_15: -4278142318897729455
+      rpg_dream_hud_16: 5629093534650782294
+      rpg_dream_hud_17: 7070708550681196083
+      rpg_dream_hud_18: 7973541590417819889
+      rpg_dream_hud_19: -6178908783820231447
+      rpg_dream_hud_2: 9200628898655361072
+      rpg_dream_hud_20: -5331070583089576764
+      rpg_dream_hud_21: -5251574634726332410
+      rpg_dream_hud_22: -2177201179336240432
+      rpg_dream_hud_23: -6009792780816597428
+      rpg_dream_hud_24: -4360905901778674578
+      rpg_dream_hud_25: 8337394954557662674
+      rpg_dream_hud_26: -6356453375966213576
+      rpg_dream_hud_27: 4039970442413905108
+      rpg_dream_hud_28: -3750223224659640312
+      rpg_dream_hud_29: -8259571509794177880
+      rpg_dream_hud_3: 1998012863270241358
+      rpg_dream_hud_30: 1806889688599450542
+      rpg_dream_hud_31: -3429257689373284154
+      rpg_dream_hud_32: -3090281822034681686
+      rpg_dream_hud_33: 4518390621900100491
+      rpg_dream_hud_34: 1370337235675875152
+      rpg_dream_hud_35: -3111763239305232506
+      rpg_dream_hud_36: 1724794069665626297
+      rpg_dream_hud_37: -8760255240104146987
+      rpg_dream_hud_38: 3188772981050711926
+      rpg_dream_hud_39: -4026600197485125329
+      rpg_dream_hud_4: 1134876214756744863
+      rpg_dream_hud_40: 6848341787040666236
+      rpg_dream_hud_41: -7182674172789104686
+      rpg_dream_hud_42: 431080108709886853
+      rpg_dream_hud_43: -1321637358904254447
+      rpg_dream_hud_44: 1935076756569911433
+      rpg_dream_hud_45: 3204231304287241021
+      rpg_dream_hud_5: 321505619121856604
+      rpg_dream_hud_6: -4331346714203572145
+      rpg_dream_hud_7: 7151521913516101209
+      rpg_dream_hud_8: -254544352247376743
+      rpg_dream_hud_9: 1694938870985885974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
